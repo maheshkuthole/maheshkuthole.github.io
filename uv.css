@@ -1,0 +1,142 @@
+.logo {
+  height: 81px;
+  width: 97px;
+  left: 45%;
+  /* top: -250px; */
+  border-radius: 0px;
+  position: relative;
+}
+.name {
+  font-family: "Italianno", cursive;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.run {
+  background: gray;
+  font-family: Roboto Mono;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  direction: left;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: white;
+  font-weight: 900;
+}
+.main {
+  height: 471px;
+  width: 100%;
+  left: -71px;
+  top: 5px;
+  border-radius: 0px;
+}
+.tbar {
+  display: inline-block;
+}
+.tbar li {
+  float: left;
+  width: 18rem;
+  /* text-decoration: none; */
+  list-style: none;
+}
+.para {
+  font-family: Roboto Mono;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.p1 {
+  font-family: Italianno;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.first {
+}
+.second {
+}
+.fourth {
+}
+.kar {
+  font-family: Italianno;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: center;
+  background: #d9d9d9;
+}
+.han {
+  font-family: Roboto Mono;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.judge {
+  align: right;
+  height: 250px;
+  width: 600px;
+  left: 583px;
+  top: 2335px;
+  border-radius: 0px;
+  background-color: #d9d9d9;
+}
+.gallery {
+  font-size: 25px;
+  margin-bottom: 25px;
+  font-family: Italianno;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.aaa {
+  align: left;
+  height: 170px;
+  width: 250px;
+  left: 583px;
+  top: 2335px;
+  border-radius: 0px;
+  background-color: #d9d9d9;
+  margin-left: 1000px;
+  padding-left: 20px;
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.cot {
+  margin-left: 1000px;
+  font-family: Italianno;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.lo {
+  font-family: Italianno;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 38px;
+  letter-spacing: 0em;
+  text-align: justified;
+}
+.u {
+  font-size: 30px;
+  font-weight: bolder;
+}
+.image-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
